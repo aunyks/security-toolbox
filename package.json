@@ -1,0 +1,23 @@
+{
+  "name": "@aunyks/security-toolbox",
+  "version": "1.0.0",
+  "description": "Scripts, wordlists, and other files that I (@aunyks) use to do security research.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aunyks/security-toolbox.git"
+  },
+  "keywords": [
+    "security",
+    "infosec"
+  ],
+  "author": "Gerald Nash <me@aunyks.com> (aunyks.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aunyks/security-toolbox/issues"
+  },
+  "homepage": "https://github.com/aunyks/security-toolbox#readme"
+}
